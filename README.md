@@ -6,7 +6,7 @@ Contribution is allowed
 
 ## Contribution guide
 
-`fork` and copy the `clone or download url` 
+`fork` and copy the `url`
 
 Head to your terminal and do `git clone https://github.com{your-github-username-here}/bar-chart.git`
 
