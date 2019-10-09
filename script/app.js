@@ -1,0 +1,1 @@
+// Selecting element and caching into memory
